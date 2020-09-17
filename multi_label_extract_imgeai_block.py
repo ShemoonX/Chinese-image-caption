@@ -119,7 +119,7 @@ def get_dataloader():
 
 def extract():
     model_ckpt = 'muti_labei_classification'
-    # if you don not have 'word_att.pth', you can also get data['word_att'] in 'pic2att', As shown in the "data_preprocess_pic2att.py".
+    # if you don not have 'word_att.pth', you can also get data['word_att'] in 'pic2att.pth', As shown in the "data_preprocess_pic2att.py".
     data = t.load('word_att.pth')
     word_att = data['word_att']
     use_gpu = True

@@ -7,7 +7,7 @@ The model framework of Chinese image description generation algorithm based on m
 ![Image text](https://raw.githubusercontent.com/ShemoonX/Chinese-image-caption/master/img-folder/model.PNG)
 
 # Paper
-Chinese Image Captioning Based on Middle-Level Visual-Semantic Composite Attributes --- 《Journal of Chinese information》 
+__Journal of Chinese information__ 《Chinese Image Captioning Based on Middle-Level Visual-Semantic Composite Attributes》
 
 [paper](http://jcip.cipsc.org.cn/CN/Y2021/V35/I4/129)
 
